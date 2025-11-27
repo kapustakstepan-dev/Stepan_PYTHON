@@ -1,0 +1,58 @@
+{
+    "films": [
+        {
+            "name": "Harry Potter and the Philosopher's Stone",
+            "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+            "rating": 7.1,
+            "genre": "Fantasy",
+            "actors": [
+                "Daniel Radcliffe",
+                "Rupert Grint",
+                "Emma Watson",
+                "John Cleese",
+                "Robbie Coltrane",
+                "Warwick Davis",
+                "Richard Griffiths",
+                "Richard Harris",
+                "Ian Hart",
+                "John Hurt",
+                "Alan Rickman",
+                "Fiona Shaw",
+                "Maggie Smith",
+                "Julie Walters"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+        },
+        {
+            "name": "Garfield: The Movie",
+            "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+            "rating": 3.52,
+            "genre": "Fantasy",
+            "actors": [
+                "Breckin Meyer",
+                "Jennifer Love Hewitt",
+                "Stephen Tobolowsky",
+                "Bill Murray"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+        },
+        {
+            "name": "Морський Бій",
+            "year": 2012,
+            "description": "Морський бій» (англ. Battleship) — це американський науково-фантастичний бойовик 2012 року режисера Пітера Берга. Фільм оснований на однойменній настільній грі Hasbro і розповідає про зіткнення між військово-морськими силами США та інопланетними кораблями, які прибули на Землю у відповідь на сигнал NASA.",
+            "rating": 8.1,
+            "genre": "Бойовик",
+            "actors": [
+                "Тейлор Кітч",
+                "Александер Скарсґард",
+                "Ріанна",
+                "Бруклін Деккер",
+                "Таданобу Асано",
+                "Ліам Нісон",
+                "Грегорі Д. Гадсон",
+                "Джессе Племонс"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/uk/e/ed/Battleship-poster.jpg"
+        }
+    ]
+}
